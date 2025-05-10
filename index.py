@@ -57,11 +57,11 @@ for x in range(1, 5):
     costoEnivoPromedioTienda[f"tienda_{x}"] = round(sum(costoEnvio) / len(tienda), 2);
 
 
-print(facturacion);
-print(categoriasporTienda);
-print(calificacionPromedioTienda);
-print(masVendidos);
-print(costoEnivoPromedioTienda);
+# print(facturacion);
+# print(categoriasporTienda);
+# print(calificacionPromedioTienda);
+# print(masVendidos);
+# print(costoEnivoPromedioTienda);
 
 
 
